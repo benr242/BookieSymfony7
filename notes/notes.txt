@@ -26,6 +26,9 @@ composer require symfony/webpack-encore-bundle
 symfony server:start
 
 //GIT
+gh repo list
+gh repo create (interactive)
+
 git tag -a v0.1 -m "start point"
 git show v0.1
 
