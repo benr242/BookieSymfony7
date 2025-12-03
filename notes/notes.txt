@@ -28,6 +28,7 @@ symfony server:start
 //GIT
 gh repo list
 gh repo create (interactive)
+(--push to push current repo to gh)
 
 git tag -a v0.1 -m "start point"
 git show v0.1
